@@ -6,7 +6,7 @@
 
 I'm a high school student in Turkey
 
-[![Telegram](https://img.shields.io/badge/-@yusfklncc-2CA5E0?style=flat-square&logo=Telegram&logoColor=fff)](https://t.me/yusfklncc)
+- [![Telegram](https://img.shields.io/badge/-@yusfklncc-2CA5E0?style=flat-square&logo=Telegram&logoColor=fff)](https://t.me/yusfklncc)
 
 
 # Destek
