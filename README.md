@@ -11,9 +11,10 @@ I'm a high school student in Turkey
 
 
 # Destek
-Merhaba arkadaşlar eğer yaptığım işler size faydalıysa aşağıdaki bağlantılardan bana gönlünüzden geldiğince yardımda bulunabilirsiniz:
 
-Hello friends, if my work is useful to you, you can help me as much as you want from the links below:
+- Merhaba arkadaşlar eğer yaptığım işler size faydalıysa aşağıdaki bağlantılardan bana gönlünüzden geldiğince yardımda bulunabilirsiniz:
+
+- Hello friends, if my work is useful to you, you can help me as much as you want from the links below:
 
 <p align="center">
 <a href="https://www.papara.com/personal/#!/login">
