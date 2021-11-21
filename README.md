@@ -20,7 +20,7 @@ I'm a high school student in Turkey
 <a href="https://www.papara.com/personal/#!/login">
   <img src="https://github.com/yusfklncc/yusfklncc/blob/main/Resources/Papara.png" width="200"/> </a>
 <a href="https://www.paypal.com/paypalme/sevenpay">
-  <img src="https://github.com/yusfklncc/yusfklncc/blob/main/Resources/PayPal.png" width="200"/> </a>
+  <img src="https://github.com/yusfklncc/yusfklncc/blob/main/Resources/PayPal.jpg" width="200"/> </a>
 
 - Papara No: 1664668976
   
