@@ -16,10 +16,9 @@ I'm a high school student in Turkey
 
 - Hello friends, if my work is useful to you, you can help me as much as you want from the links below:
 
-<p align="left">
+<p align="center">
 <a href="https://www.papara.com/personal/#!/login">
   <img src="https://github.com/yusfklncc/yusfklncc/blob/main/Resources/Papara.png" width="200"/> </a>
-<p align="center">
 <a href="https://www.paypal.com/paypalme/sevenpay">
   <img src="https://github.com/yusfklncc/yusfklncc/blob/main/Resources/PayPal.png" width="200"/> </a>
 
