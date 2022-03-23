@@ -11,6 +11,7 @@
   <img src="https://github.com/yusfklncc/yusfklncc/blob/main/Resources/PayPal.png" width="200"/> </a>
 
 - Papara No: 1664668976
+- PayPal: [@sevenpay](https://www.paypal.com/paypalme/sevenpay)
   
 Çok teşekkür ederim <3
                        
