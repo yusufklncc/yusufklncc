@@ -12,3 +12,5 @@ I'm a high school student in Turkey
   <img src="https://img.shields.io/badge/-@yusufklncc-red?logo=YouTube&logoColor=white" width="150"/> </a>
 <a href="https://www.paypal.com/paypalme/sevenpay">
   <img src="https://img.shields.io/badge/-@sevenpay-2CA5E0?logo=PayPal&logoColor=red" width="150"/> </a>  
+<a href="https://dijital.link/luthoeny">
+  <img src="https://img.shields.io/badge/-links-white?logoColor=black" width="150"/> </a>  
