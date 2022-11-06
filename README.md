@@ -14,4 +14,6 @@ I'm a high school student in Turkey
 <a href="https://www.paypal.com/paypalme/sevenpay">
   <img src="https://img.shields.io/badge/-@sevenpay-2CA5E0?logo=PayPal&logoColor=red" width="140"/> </a>
 <a href="https://www.buymeacoffee.com/yusufklncc">
-  <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" width="150"/> </a> 
+  <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" width="150"/> </a>
+<a href="https://dijital.link/yusufklncc">
+  <img src="https://img.shields.io/badge/-links-white?&logoColor=black" width="140"/> </a>  
