@@ -6,7 +6,7 @@
 
 I'm a high school student in Turkey
 
-<p align="center">
+<p align="left">
 <a href="https://t.me/yusufklncc">
   <img src="https://img.shields.io/badge/-@yusufklncc-2CA5E0?logo=Telegram&logoColor=blue" width="150"/> </a>
 <a href="https://www.youtube.com/c/yusufklncc">
