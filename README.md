@@ -4,7 +4,7 @@
 
 # yo
 
-I'm a high school student in Turkey
+I'm a high school student in Türkiye
 
 <p align="left">
 <a href="https://t.me/yusufklncc">
