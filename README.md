@@ -19,9 +19,8 @@ I'm a college student in Türkiye
   <img src="https://img.shields.io/badge/-links-white?&logoColor=black" width="55"/> </a>  
 
 
-<table>
-  <tr>
-    <td>You are visitor</td>
-    ![](https://komarev.com/ghpvc/?username=yusufklncc)
-  </tr>
-</table>
+
+  <td>You are visitor</td>
+  
+  ![](https://komarev.com/ghpvc/?username=yusufklncc)
+
