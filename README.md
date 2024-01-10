@@ -22,6 +22,6 @@ I'm a college student in Türkiye
 <table>
   <tr>
     <td>You are visitor</td>
-    <td><img src="https://profile-counter.glitch.me/menaxmaged/count.svg" alt="counter" /></td>
+    ![](https://komarev.com/ghpvc/?username=yusufklncc)
   </tr>
 </table>
