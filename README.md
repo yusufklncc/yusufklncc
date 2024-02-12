@@ -17,10 +17,6 @@ I'm a college student in Türkiye
   <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" width="150"/> </a>
 <a href="https://dijital.link/yusufklncc">
   <img src="https://img.shields.io/badge/-links-white?&logoColor=black" width="55"/> </a>  
-
-
-
-  <td>You are visitor</td>
-  
+ 
   ![](https://komarev.com/ghpvc/?username=yusufklncc)
 
