@@ -1,6 +1,5 @@
 # Hello👋
 
-I'm a college student in Türkiye
 
 <p>
   <img src="https://github-readme-stats.mrdulin.vercel.app/api?username=yusufklncc&&count_private=true&show_icons=true&hide_border=true&hide=prs&theme=dark">
